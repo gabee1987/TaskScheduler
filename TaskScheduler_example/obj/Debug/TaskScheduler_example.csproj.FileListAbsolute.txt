@@ -1,0 +1,7 @@
+C:\Users\gkoncz\Documents\Training exercises\TaskScheduler_example\TaskScheduler_example\bin\Debug\TaskScheduler_example.exe.config
+C:\Users\gkoncz\Documents\Training exercises\TaskScheduler_example\TaskScheduler_example\bin\Debug\TaskScheduler_example.exe
+C:\Users\gkoncz\Documents\Training exercises\TaskScheduler_example\TaskScheduler_example\bin\Debug\TaskScheduler_example.pdb
+C:\Users\gkoncz\Documents\Training exercises\TaskScheduler_example\TaskScheduler_example\obj\Debug\TaskScheduler_example.csprojAssemblyReference.cache
+C:\Users\gkoncz\Documents\Training exercises\TaskScheduler_example\TaskScheduler_example\obj\Debug\TaskScheduler_example.csproj.CoreCompileInputs.cache
+C:\Users\gkoncz\Documents\Training exercises\TaskScheduler_example\TaskScheduler_example\obj\Debug\TaskScheduler_example.exe
+C:\Users\gkoncz\Documents\Training exercises\TaskScheduler_example\TaskScheduler_example\obj\Debug\TaskScheduler_example.pdb

@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransClock", "TransClock\TransClock.csproj", "{BB9F683A-BEE3-465C-AF8A-B774DCA74DF5}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleTimer", "ScheduleTimer\ScheduleTimer.csproj", "{A1087FDB-40E7-461C-8402-AF74AEFC3E51}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportTimerTest", "ReportTimerTest\ReportTimerTest.csproj", "{C4CD9FBB-90D0-4567-9788-A72FCA007922}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerTest", "TimerTest\TimerTest.csproj", "{C6FE5EA4-74FA-4EB5-9157-FE75A6840C87}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{BB9F683A-BEE3-465C-AF8A-B774DCA74DF5}.Debug.ActiveCfg = Debug|.NET
+		{BB9F683A-BEE3-465C-AF8A-B774DCA74DF5}.Debug.Build.0 = Debug|.NET
+		{BB9F683A-BEE3-465C-AF8A-B774DCA74DF5}.Release.ActiveCfg = Release|.NET
+		{BB9F683A-BEE3-465C-AF8A-B774DCA74DF5}.Release.Build.0 = Release|.NET
+		{A1087FDB-40E7-461C-8402-AF74AEFC3E51}.Debug.ActiveCfg = Debug|.NET
+		{A1087FDB-40E7-461C-8402-AF74AEFC3E51}.Debug.Build.0 = Debug|.NET
+		{A1087FDB-40E7-461C-8402-AF74AEFC3E51}.Release.ActiveCfg = Release|.NET
+		{A1087FDB-40E7-461C-8402-AF74AEFC3E51}.Release.Build.0 = Release|.NET
+		{C4CD9FBB-90D0-4567-9788-A72FCA007922}.Debug.ActiveCfg = Debug|.NET
+		{C4CD9FBB-90D0-4567-9788-A72FCA007922}.Debug.Build.0 = Debug|.NET
+		{C4CD9FBB-90D0-4567-9788-A72FCA007922}.Release.ActiveCfg = Release|.NET
+		{C4CD9FBB-90D0-4567-9788-A72FCA007922}.Release.Build.0 = Release|.NET
+		{C6FE5EA4-74FA-4EB5-9157-FE75A6840C87}.Debug.ActiveCfg = Debug|.NET
+		{C6FE5EA4-74FA-4EB5-9157-FE75A6840C87}.Debug.Build.0 = Debug|.NET
+		{C6FE5EA4-74FA-4EB5-9157-FE75A6840C87}.Release.ActiveCfg = Release|.NET
+		{C6FE5EA4-74FA-4EB5-9157-FE75A6840C87}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
